@@ -1,7 +1,7 @@
 # Information
 This is an advanced idle ped script that you can use
 to spawn the desired ped with an idle animation.
-All peds spawned are invincible and cannot be harmed.
+All peds spawned are invincible and cannot be harmed. You can also change the ped model & add another animation.
 
 # How to use
 In config.lua you can edit the cordinates & model of your desired ped.
