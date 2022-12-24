@@ -19,5 +19,7 @@ https://discord.gg/b9UUxDYS4e
 
 # License
 -- GNU GPL V.3
+
 -- Copyright (C) Komyak - All Rights Reserved
+
 -- You are not allowed to sell this script or re-upload it
