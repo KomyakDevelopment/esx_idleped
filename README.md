@@ -6,11 +6,6 @@ All peds spawned are invincible and cannot be harmed.
 # How to use
 In config.lua you can edit the cordinates & model of your desired ped.
 
-["name"] = This defines the name of the desired ped
-["hash"] = This defines the Ped model https://docs.fivem.net/docs/game-references/ped-models/
-["pos"] = Is the cordinates of your ped. I recommend using TXAdmin to get cordinates.
-["heading"] = Defines where the ped will look towards.
-
 This is an example of how it might look:
 https://cdn.discordapp.com/attachments/1041127464426033295/1056031829322383440/image_5.png
 
